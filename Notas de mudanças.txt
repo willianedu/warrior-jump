@@ -1,0 +1,4 @@
+-Adicionado aumento de velocidade de espinhos em um determinado tempo.
+-Ajustado tamanho do gif do personagem
+-Adicionado mais verificações de colisão para evitar problemas em alta velocidade.
+-Adicionado score que é aumentado enquanto o obstáculo estiver vindo em direção ao personagem.
